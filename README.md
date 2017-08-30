@@ -20,17 +20,17 @@ Files include :
 
 8)     3users.py : gives user information
 
-9)     4audit_clean_street.py : audits and cleans street names
+9)       4audit_clean_street.py : audits and cleans street names
 
-10)    5audit_clean_postcodes.py : audits and cleans postal codes
+10)     5audit_clean_postcodes.py : audits and cleans postal codes
 
-11)    6data.py : builds 5 different CSV files in from original OSM file and also parses, cleanses data
+11)     6data.py : builds 5 different CSV files in from original OSM file and also parses, cleanses data
 
-12)    database : Contains five .py scripts used in connecting 5 csv files to SQLite database mydb.db
+12)     database : Contains five .py scripts used in connecting 5 csv files to SQLite database mydb.db
 
-13)    mydb.db : SQLite database
+13)     mydb.db : SQLite database
 
-14)    database_query.py : SQL queries used to explore data
+14)     database_query.py : SQL queries used to explore data
 
-15)    schema.py : schema followed to create csv files after audit and cleaning of data
+15)     schema.py : schema followed to create csv files after audit and cleaning of data
 
